@@ -45,12 +45,12 @@ A deep investigation into how three independent bugs — a Kubernetes immutable 
 
 | Article | Topics | Link |
 |---------|--------|------|
-| The Silent Infrastructure Drift That Terraform Couldn't See | Terraform, Kubernetes, State Drift, CRDs | [Read on Hashnode](https://your-hashnode-url-here) |
+| The Silent Infrastructure Drift That Terraform Couldn't See | Terraform, Kubernetes, State Drift, CRDs | [Read on Hashnode](https://hashnode.com/edit/cmr0f0o78000109jh4j78e672) |
 
 ---
 
 ## Connect
 
-- [Hashnode Blog](https://hashnode.com/edit/cmr0f0o78000109jh4j78e672)
+- [Hashnode Blog](https://devopswork.hashnode.dev/)
 - [LinkedIn](https://www.linkedin.com/in/sonal-a-kumar/)
 
