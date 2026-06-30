@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi, I'm Sonal Kumar
+# I'm Sonal Kumar
 
 **DevOps Engineer** | Building reliable, scalable infrastructure with Terraform, Kubernetes, and AWS
 
